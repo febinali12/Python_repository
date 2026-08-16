@@ -1,1 +1,3 @@
-flask
+git add requirements.txt
+git commit -m "fix: add streamlit dependency"
+git push
